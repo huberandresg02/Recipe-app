@@ -1,22 +1,23 @@
 .app {
-  min-height: 1000vh;
-  background-color: rgb(109, 91, 94);
-  height: 100vh;
+    min-height: 1000vh;
+    background-color: rgb(109, 91, 94);
+    height: 100vh;
 }
 
-.search__form{
-  display: flex !important;
-  flex-direction: row !important;
-  justify-content: center !important;
-  align-items: center !important;
-  padding: 90px !important;
-
+.search__form {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 90px !important;
 }
 
-.search__input{
-  width: 60% !important;
-  border: none !important;
+.search__input {
+    width: 60% !important;
+    border: none !important;
 }
+
+
 /*
 .recipes {
   display: flex;
